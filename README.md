@@ -1,2 +1,2 @@
-# Get-GitHub-Card
+# Dev-Detective
 This project generates cards for every username of a GitHub by collecting information from their profile using API calls.
